@@ -36,6 +36,8 @@ To ssh://github.com/GriffinRidgeback/SparkScalaIDE.git
    b4f06ef..fd1efae  master -> master
 ```
 # Useful links for setup
-Mostly, I followed this [article](http://docs.scala-lang.org/tutorials/scala-with-maven.html)
-I needed some help from [here](http://stackoverflow.com/questions/35016945/scalac-error-bad-option-maketransitive-on-mvn-package-via-command-line) to resolve an initial build issue
-[This](https://www.mkyong.com/maven/how-to-configure-m2_repo-variable-in-eclipse-ide/) article shows how to correctly specify the workspace location for the eclipse goals
+Mostly, I followed this [article](http://docs.scala-lang.org/tutorials/scala-with-maven.html).
+
+I needed some help from [here](http://stackoverflow.com/questions/35016945/scalac-error-bad-option-maketransitive-on-mvn-package-via-command-line) to resolve an initial build issue.
+
+[This](https://www.mkyong.com/maven/how-to-configure-m2_repo-variable-in-eclipse-ide/) article shows how to correctly specify the workspace location for the eclipse goals.
